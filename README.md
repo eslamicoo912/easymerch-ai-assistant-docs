@@ -102,8 +102,8 @@ Building this project deepened my expertise in **orchestrating multiple third-pa
 Backend-focused MERN Developer
 
 - 🌐 [Portfolio](https://eslamicoo912.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/eslamicoo912/))
-- 🐙 [GitHub](https://github.com/your-username](https://github.com/eslamicoo912))
+- 💼 [LinkedIn](https://www.linkedin.com/in/eslamicoo912)
+- 🐙 [GitHub](https://github.com/eslamicoo912)
 - 📧 eslamicoo3@gmail.com
 
 ---
