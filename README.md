@@ -96,4 +96,17 @@ The system relies on a relational-like schema within MongoDB:
 Building this project deepened my expertise in **orchestrating multiple third-party AI APIs** into a single application. I mastered the art of building **usage-aware backend systems** and gained significant experience in managing **complex state transitions** in React during high-latency AI operations. It reinforced the importance of **TypeScript** for long-term codebase maintainability.
 
 ---
-*Created by [Your Name/GitHub Profile]*
+*Created by :*
+
+**Eslam Ashraf**  
+Backend-focused MERN Developer
+
+- 🌐 [Portfolio](eslamicoo912.github.io)
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/eslamicoo912/))
+- 🐙 [GitHub]([https://github.com/your-username](https://github.com/eslamicoo912))
+- 📧 eslamicoo3@gmail.com
+
+---
+
+> 💡 *This repository is private as "easymerch" is a commercial product under active development.  
+> For a walkthrough of the codebase or architecture, feel free to reach out directly.*
