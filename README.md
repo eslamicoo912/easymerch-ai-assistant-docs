@@ -2,6 +2,10 @@
 
 A high-performance, full-stack AI platform designed to unify advanced text generation, image manipulation, and smart productivity tools into a single, intuitive interface.
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://easymerch-ai-assistant-734sb4i4g-eslamicoo912s-projects.vercel.app)
+
+[![Youtube Video](https://img.shields.io/badge/Youtube-Video-red?style=for-the-badge)](https://www.youtube.com/watch?v=ZGP5m7tiV0Y)
+
 ## 🌟 Overview
 
 **GPT Assistant Lab** is a professional-grade AI workspace built for developers, designers, and power users who need a centralized hub for state-of-the-art AI capabilities. Unlike fragmented solutions, this project integrates multiple leading AI models (OpenAI, Stability AI, etc.) into a cohesive ecosystem. It solves the problem of "tab-fatigue" and complex API management by providing a streamlined, secure, and usage-monitored environment for all generative AI needs.
